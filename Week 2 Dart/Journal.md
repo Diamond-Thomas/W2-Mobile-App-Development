@@ -1,0 +1,2 @@
+### Journal Prompt: How did null safety affect your solution?
+I couldnt get past null safety. I tried to put in my other arguments in "void main(List<String> args)" but it wouldnt accept it and required me to put in the list argument for it even to run? I dont know what it does? I started with that to try and trouble shoot and then tried to add on my arguements and list it as required to get past the nul; safety but it doesn't run right. It runs a null but doesn't let me put in a required to bypass it?
